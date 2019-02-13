@@ -1,2 +1,2 @@
 # automateautoscaleamicreation
-This is bash script whic use aws cli to automate autoscale AMI creation 
+This is bash script use aws cli to automate autoscale AMI creation 
